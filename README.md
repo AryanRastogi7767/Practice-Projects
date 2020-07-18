@@ -8,3 +8,5 @@ This project has been made for practising  NLP, text featurization and basic ML 
 
 4. Titanic Survival Prediction Project was a part of Kaggle Competition consists of univariate feature analysis and visualisations along with key insights on the data. The task was to predict that a passenger will survive or not using the given data on the passengers.
 I used classical machine learning algorithms along with feature engineering and hyperparameter tuning to get the final output. --May 2020
+
+5. Census Income Prediction and Analysis Project : It contains a detailed analysis and visualizations of the features of the census income dataset from UCI Machine learning Repository. It also consists of detailed feature engineering and prediction modelling to find a good classifier for the data.  -- June 2020 
